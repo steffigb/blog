@@ -18,7 +18,7 @@ Zum anderen kann ich den Hōkoku-ji Tempel mit seinem Bambuswald nur wärmstens 
 On the other hand, I highly recommend the Hōkoku-ji Temple with its bamboo forest.
 You have the possibility to drink a cup of green tea with a view of the bamboo forest. It is all very quiet and relaxing, green, in between you feel the refreshing air and you can hear the wind and watch the bamboo leaves falling gently :). You can get to rest very well. 
 
-<re-img src="odawara.jpg" title="Odawara Castle"></re-img>
+<re-img src="castle.jpg" title="Odawara Castle"></re-img>
 
 Auf dem Rückweg nach Hakone habe ich einen Abstecher zum Schloss von Odawara gemacht. Es war allerdings schon 16:30 Uhr als ich ankam. Viele Sehenswürdigkeiten schließen um 17:00 Uhr, auch das Schloss, sodass ich es von innen nicht mehr besichtigen konnte. 
 

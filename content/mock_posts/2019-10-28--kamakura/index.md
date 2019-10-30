@@ -7,7 +7,7 @@ author: steffigb
 
 <re-img src="hashi.jpg" title="A bridge"></re-img>
 
-<re-img src="daibutsu.jpg" title="Daibutsu"></re-img>
+<re-img src="daibutsusmall.jpg" title="Daibutsu"></re-img>
 
 <re-img src="streets.jpg" title="Streets"></re-img>
 
