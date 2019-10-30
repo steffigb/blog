@@ -35,7 +35,7 @@ class Header extends React.Component {
     return (
       <React.Fragment>
         <header className={`header ${this.getHeaderSize()}`}>
-          <Link to="/about" className="logoType">
+          {/* <Link to="/about" className="logoType">
             <div className="logo">
               Hier Logo einfügen
               <img
@@ -47,7 +47,7 @@ class Header extends React.Component {
               <h1>{config.headerTitle}</h1>
               <h2>{config.headerSubTitle}</h2>
             </div>
-          </Link>
+          </Link> */}
           <ScreenWidthContext.Consumer>
             {width => <Menu path={path} fixed={fixed} screenWidth={width} theme={theme} />}
           </ScreenWidthContext.Consumer>
