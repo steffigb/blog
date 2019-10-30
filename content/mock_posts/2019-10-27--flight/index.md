@@ -30,7 +30,7 @@ Actually I had planned to travel only with carry-on baggage, but unfortunately t
 <re-img src="bedroom.jpg" title="Bedroom at Kamakura Guesthouse"></re-img>
 
 Auf dem Weg zum <a href="https://kamakura-guesthouse.com/en/" target="_blank" rel="noopener noreferrer">Kamakura Guesthouse</a> bin ich einem älteren Herren begegnet, der großer Bob Marley Fan ist und der mich bis zur Unterkunft begleitet hat (Ich hab' mich nicht verlaufen, war fast da!). Das war witzig ^^.
-Die ersten beiden Nächte habe ich im Schlafsaal für Frauen geschlafen. Tatami, Matten aus Raisstrohm die in traditionell japanischen Zimmern verwendet werden, sind großartig :). Und Futons, traditionell japanische Betten, mag ich auch sehr gerne! 
+Die ersten beiden Nächte habe ich im Schlafsaal für Frauen geschlafen. Tatami, Matten aus Reisstroh, die in traditionell japanischen Zimmern verwendet werden, sind großartig :). Und Futons, traditionell japanische Betten, mag ich auch sehr gerne! 
 
 On the way to the <a href="https://kamakura-guesthouse.com/en/" target="_blank" rel="noopener noreferrer">Kamakura Guesthouse</a> I met an older gentleman who is a big Bob Marley fan and who accompanied me to the accommodation (I didn't get lost, was almost there!). It was funny ^^.
 The first two nights I slept in the women's dorm. Tatami, rice straw mats used in traditional Japanese rooms, are great :). And I also like futons, traditional Japanese beds, very much! 
