@@ -2,13 +2,13 @@ module.exports = {
   siteTitle: "neue_pfade", // <title>
   shortSiteTitle: "neue_pfade", // <title> ending for posts and pages
   siteDescription: "neue_pfade",
-  siteUrl: "https://www.attejuvonen.fi",
+  siteUrl: "https://www.neue-pfa.de",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
 
   /* author */
-  authorName: "SteffiGB",
+  authorName: "steffigb",
   //authorTwitterAccount: "",
   //authorGithub: "https://github.com/baobabkoodaa",
   //authorStackoverflow: "https://stackexchange.com/users/5678032/atte-juvonen?tab=accounts",
