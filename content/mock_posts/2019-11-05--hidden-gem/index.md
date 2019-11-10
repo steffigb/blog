@@ -13,7 +13,7 @@ The cover image of yesterday shows the view from the terrace of the hostel. One 
 <re-img src="waterfall.jpg" title="Hidden gem in the mountains"></re-img>
 
 In Kyōto war ich dann etwas überfordert, weil es einfach so viele Menschen hier gibt. Aber mein Hostel liegt in Gion und damit in der Nähe vieler Sehenswürdigkeiten.
-Abends habe ich mich mit Hidaka-san und seinem Freind getroffen. Hidaka-san ist Japaner und hat eine zeitlang in Kiel gewohnt. Wir waren Sushi essen, was außerordentlich lecker war :D. Wir haben uns dreisprachig unterhalten, was auch ziemlich witzig war ^^.
+Abends habe ich mich mit Hidaka-san und seinem Freund getroffen. Hidaka-san ist Japaner und hat eine zeitlang in Kiel gewohnt. Wir waren Sushi essen, was außerordentlich lecker war :D. Wir haben uns dreisprachig unterhalten, auch ziemlich witzig ^^.
 
 In Kyōto, I was a bit overwhelmed, because there are just so many people here. But my hostel is located in Gion and therefore close to many attractions.
 In the evening I met with Hidaka-san and his friend. Hidaka-san is Japanese and lived in Kiel for a while. We went to eat Sushi, which was extremely tasty :D. We talked in three different languages, what was kind of funny ^^.
