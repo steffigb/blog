@@ -9,7 +9,7 @@ Nach etwas Trödelei am Morgen und einer langen (aber durch das fehlende Gepäck
 
 Die neue Unterkunft ist auch sehr schön, sehr sauber und die Hosts sind super freundlich. Und das Beste ist der Hund der Besitzer, Gao. Er ist ein Shiba Inu und super niedlich ^^. Foto kommt die Tage noch.
 
-Kanazawa steht auf meiner Liste, weil es hier einen der drei schönsten Gärten Japans zu bewundern gibt, den Kenroku-en (兼六園). Den habe ich aber heute nicht angeschaut, da es schon dämmerte, als ich ausgehfertig war. Außerdem wird aktuell der Gyokusen ‘inmaru Garten, der sich neben dem Schloss Kanazawas befindet, hübsch und mit Musiluntermalungbeleuchtet. Der Eintritt ist frei. <a href="http://www.pref.ishikawa.jp/siro-niwa/kanazawajou/e/night/index.html" target="_blank" rel="noopener noreferrer">Auf dieser Seite </a> kann man sich die Licht-Show mit Musik ansehen (ein bisschen nach unten scrollen).
+Kanazawa steht auf meiner Liste, weil es hier einen der drei schönsten Gärten Japans zu bewundern gibt, den Kenroku-en (兼六園). Den habe ich aber heute nicht angeschaut, da es schon dämmerte, als ich ausgehfertig war. Außerdem wird aktuell der Gyokusen ‘inmaru Garten, der sich neben dem Schloss Kanazawas befindet, hübsch und mit Musikuntermalung beleuchtet. Der Eintritt ist frei. <a href="http://www.pref.ishikawa.jp/siro-niwa/kanazawajou/e/night/index.html" target="_blank" rel="noopener noreferrer">Auf dieser Seite </a> kann man sich die Licht-Show mit Musik ansehen (ein bisschen nach unten scrollen).
 
 Wenn das nach einem Mitternachtsabenteuer aussieht: es ist hier um 17:00 Uhr schon stockfinster ^^. 
 
