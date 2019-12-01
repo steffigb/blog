@@ -11,6 +11,9 @@ Hier das Logo des Fushimi Inari einbringen...Spiegelung der eigenen ichs
 Füchse sind wichtig, Verweis auf Pokemon, Nintendo ist inspiriert durch den Fushimi Inari Taisha
 Wenn ein Wunsch in Erfüllung gegangen ist durch die Götter, stellt man ein Torii auf,um ihm für die Erfüllung des Wunsches zu danken; es sind die Namen der Dankenden aufgeschrieben 
 
+Was man machen sollte:
+- Ein Stempel-Buch kaufen, es sieht wunderschön aus und man kann (theoretisch) nachschauen, wo man wann war
+
 Menschen in Kanazawa sprechen nicht gerne Englisch; wenn man her kommt, ist es gut etwas Japanisch zu können; 
 insgesamt sehr stolz auf ihr Stadt laube ich; Kanazawa zur Zeit mit Kyoto als Hauptstadt die zweitgrößte Stadt Japans
 Die ganzen Goldsachen
@@ -58,7 +61,17 @@ Souvenirs...es haben sich viele Tees, Lesezeichen und Postkarten angesammelt.
  --> Suica unendlich praktisch
 
  Was ich vermisse:
- - das Essen: Ramen, Soba, Tempura, Sushi, Okonomyaki
+ - das Essen: Ramen, Soba, Tempura, Sushi, Okonomyaki, Eis
+
+Komischer Film mit den beiden Mädels
+Tolkien
+4 Hochzeiten und ein Todesfall
+Das 5 Mio Dollar Leben
+Battleangel Alita
+
+
+
+
 
 
 
