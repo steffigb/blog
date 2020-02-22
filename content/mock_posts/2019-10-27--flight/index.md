@@ -1,6 +1,6 @@
 ---
 title: Lasst das Abenteuer beginnen! | Let the adventure begin! | 冒険を始めましょう！
-tags: ["exhausting", "beautiful view", "more beautiful views"]
+tags: [ "japan 2019", "exhausting", "beautiful view", "more beautiful views"]
 cover: mottchen.jpg
 author: steffigb
 ---

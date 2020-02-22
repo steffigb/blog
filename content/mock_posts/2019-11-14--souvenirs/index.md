@@ -1,6 +1,6 @@
 ---
 title: Souvenir-Tag in Higa­shi-Cha­ya­gai | Souvenirs-day in Higa­shi-Cha­ya­gai | お土産の日
-tags: ["a welcoming garden", "japanese tea", "the matcha incident"]
+tags: ["japan 2019", "a welcoming garden", "japanese tea", "the matcha incident"]
 cover: leaves.jpg
 author: steffigb
 ---

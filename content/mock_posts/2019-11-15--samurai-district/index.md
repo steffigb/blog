@@ -1,6 +1,6 @@
 ---
 title: Samurai in Naga­ma­chi Bukeyashiki | 長町武家屋敷
-tags: ["samurai gardens", "say goodbye :(", "riddle time"]
+tags: ["japan 2019", "samurai gardens", "say goodbye :(", "riddle time"]
 cover: sho_kyoto.jpg
 author: steffigb
 ---

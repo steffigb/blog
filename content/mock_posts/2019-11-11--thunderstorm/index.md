@@ -1,6 +1,6 @@
 ---
 title: Gewitter | Thunderstorm | 雷雨
-tags: ["relaxing", "green tea", "reading"]
+tags: ["japan 2019", "relaxing", "green tea", "reading"]
 cover: art.jpg
 author: steffigb
 ---

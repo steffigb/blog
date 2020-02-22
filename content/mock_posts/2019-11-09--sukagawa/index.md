@@ -1,6 +1,6 @@
 ---
 title: Sukagawa Taimatsu Akashi | 須賀川松明あかし
-tags: ["very bad pictures", "everything is burning", "peaceful festival"]
+tags: ["japan 2019", "very bad pictures", "everything is burning", "peaceful festival"]
 cover: tree.jpg
 author: steffigb
 ---

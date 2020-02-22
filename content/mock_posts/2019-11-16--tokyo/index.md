@@ -1,6 +1,6 @@
 ---
 title: Ein würdiger Abschied | A worthy farewell | まともな別れ
-tags: ["beloved fuji", "a few tears", "graffiti"]
+tags: ["japan 2019", "beloved fuji", "a few tears", "graffiti"]
 cover: beloved_fuji.jpg
 author: steffigb
 ---

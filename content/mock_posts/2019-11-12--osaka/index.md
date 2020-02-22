@@ -1,6 +1,6 @@
 ---
 title: Ōsaka | 大阪
-tags: ["very colourful", "many bikes", "completely strange"]
+tags: ["japan 2019", "very colourful", "many bikes", "completely strange"]
 cover: welcome.jpg
 author: steffigb
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hakone | 箱根町
-tags: ["rainy but bautiful", "first foliage colour", "sleeping in a box"]
+tags: ["japan 2019", "rainy but bautiful", "first foliage colour", "sleeping in a box"]
 cover: trees.jpg
 author: steffigb
 ---

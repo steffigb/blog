@@ -1,6 +1,6 @@
 ---
 title: Gyokusen'inmaru Beleuchtung | Gyokusen'inmaru Garden Light-Up| 玉泉院丸庭園ライトアップ
-tags: ["bad pictures", "beautiful scenery", "not that late!"]
+tags: ["japan 2019", "bad pictures", "beautiful scenery", "not that late!"]
 cover: castle.jpg
 author: steffigb
 ---

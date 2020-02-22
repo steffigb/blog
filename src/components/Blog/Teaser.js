@@ -1,4 +1,4 @@
-import { FaArrowRight } from "react-icons/fa/";
+//import { FaArrowRight } from "react-icons/fa/";
 import { FaCalendar } from "react-icons/fa/";
 import { FaTag } from "react-icons/fa/";
 import { FaUser } from "react-icons/fa/";
@@ -30,23 +30,22 @@ const Teaser = props => {
       <li>
         <Link to={slug} key={slug} className="link">
           <div className="gatsby-image-outer-wrapper">
-            <Picture fluid={fluid} critical={index==0}/>
+            <Picture fluid={fluid} critical={index == 0} />
           </div>
-          <h1>
-            {title}
-          </h1>
+          <h1>{title}</h1>
           <p className="meta">
             <span>
               <FaCalendar size={18} /> {prefix}
             </span>
-            {/* <span>
+            <span>
               <FaUser size={18} /> {author}
-            </span> */}
-            {tags && tags.map(tag =>
-              <span key={tag}>
-              <FaTag size={18} /> {tag}
-              </span>
-            )}
+            </span>
+            {tags &&
+              tags.map(tag => (
+                <span key={tag}>
+                  <FaTag size={18} /> {tag}
+                </span>
+              ))}
           </p>
           <p>{excerpt}</p>
         </Link>
@@ -166,7 +165,6 @@ const Teaser = props => {
             box-shadow: 0px 3px 2px rgba(0, 0, 0, 0.03);
             margin-top: 20px;
             margin-bottom: 20px;
-            
             &:first-child {
               margin-top: 0;
             }

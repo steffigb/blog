@@ -1,6 +1,6 @@
 ---
 title: Piratenschiffe und Seilbahnen | Pirate ships and cable cars | 海賊とケーブルカー
-tags: ["tourist stuff", "empty batterie", "change of plans?"]
+tags: ["japan 2019", "tourist stuff", "empty batterie", "change of plans?"]
 cover: food.jpg
 author: steffigb
 ---

@@ -1,6 +1,6 @@
 ---
 title: In die Massen eintauchen | Diving into the masses | 大衆へのダイビング
-tags: ["a hidden gem", "sooo many people", "english, german, japanese"]
+tags: ["japan 2019", "a hidden gem", "sooo many people", "english, german, japanese"]
 cover: kyoto.jpg
 author: steffigb
 ---

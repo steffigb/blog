@@ -1,6 +1,6 @@
 ---
 title: Tōkaidō-Handelsstraße und Ashi-See | Tōkaidō road and lake Ashi | 東海道と芦ノ湖
-tags: ["must do in japan", "beautiful views", "shy fuji-san"]
+tags: ["japan 2019", "must do in japan", "beautiful views", "shy fuji-san"]
 cover: shy_fuji.jpg
 author: steffigb
 ---

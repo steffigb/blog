@@ -1,6 +1,6 @@
 ---
 title: Zurück nach Kamakura | Back to Kamakura | 鎌倉にもどる
-tags: ["a touch of fuji-san", "reflection", "stopp in odawara"]
+tags: ["japan 2019", "a touch of fuji-san", "reflection", "stopp in odawara"]
 cover: bambus.jpg
 author: steffigb
 ---

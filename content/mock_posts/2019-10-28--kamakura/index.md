@@ -1,6 +1,6 @@
 ---
 title: Kamakura | 鎌倉市
-tags: ["daibutsu", "hase-dera", "ocean"]
+tags: ["japan 2019", "daibutsu", "hase-dera", "ocean"]
 cover: hashi.jpg
 author: steffigb
 ---

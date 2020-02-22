@@ -1,6 +1,6 @@
 ---
 title: Nakasendō Magome - Tsumago| 中山道 馬籠 - 妻籠
-tags: ["old post towns", "easy going", "dangerous wild animals"]
+tags: ["japan 2019", "old post towns", "easy going", "dangerous wild animals"]
 cover: hostel.jpg
 author: steffigb
 ---

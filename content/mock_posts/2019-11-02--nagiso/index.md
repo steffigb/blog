@@ -1,6 +1,6 @@
 ---
 title: Nagiso - In eine andere Welt abtauchen | Nagiso - Forget the ouside world | 南木曽 - タイムアウトする
-tags: ["train travel", "where am i?", "cats are cute"]
+tags: ["japan 2019", "train travel", "where am i?", "cats are cute"]
 cover: bambus.jpg
 author: steffigb
 ---

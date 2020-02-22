@@ -1,6 +1,6 @@
 ---
 title: Kenroku-en | 兼六園
-tags: ["very colourful", "many bikes", "completely strange"]
+tags: ["japan 2019", "old trees", "so many people", "most beautiful garden"]
 cover: kasumigaike.jpg
 author: steffigb
 ---

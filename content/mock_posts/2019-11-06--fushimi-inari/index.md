@@ -1,6 +1,6 @@
 ---
 title: Fushimi Inari Insider | 伏見稲荷インサイダー
-tags: ["don't lick the shrines", "not so grouded places", "so much knowledge"]
+tags: ["japan 2019", "don't lick the shrines", "not so grouded places", "so much knowledge"]
 cover: waterside.jpg
 author: steffigb
 ---

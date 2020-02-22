@@ -1,6 +1,6 @@
 ---
 title: Der Herbst ist da | Autumn has arrived | 秋が来ました
-tags: ["autumn colours", "a wooden bridge", "not much to say"]
+tags: ["japan 2019", "autumn colours", "a wooden bridge", "not much to say"]
 cover: cover.jpg
 author: steffigb
 ---

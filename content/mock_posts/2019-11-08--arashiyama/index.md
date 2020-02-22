@@ -1,6 +1,6 @@
 ---
 title: Arashiyama Bambuswald | Arashiyama Bamboo Grove | 嵐山竹林
-tags: ["overrated", "girls' trip", "everything is illuminated"]
+tags: ["japan 2019", "overrated", "girls' trip", "everything is illuminated"]
 cover: garden.jpg
 author: steffigb
 ---

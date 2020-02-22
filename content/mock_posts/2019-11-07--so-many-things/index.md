@@ -1,6 +1,6 @@
 ---
 title: Tempel, Schreine und Gärten | Temples, shrines and gardens | お寺、神社、庭園
-tags: ["overwhelmed", "exhausted", "maybe a bit lonely?"]
+tags: ["japan 2019", "overwhelmed", "exhausted", "maybe a bit lonely?"]
 cover: heian.jpg
 author: steffigb
 ---
